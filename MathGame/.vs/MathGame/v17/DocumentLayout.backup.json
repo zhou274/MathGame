@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Unity\\MathGame\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|D:\\Unity\\MathGame\\assets\\mathgame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|solutionrelative:assets\\mathgame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|d:\\unity\\mathgame\\assets\\mathgame\\scripts\\menulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|solutionrelative:assets\\mathgame\\scripts\\menulogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|d:\\unity\\mathgame\\assets\\mathgame\\scripts\\buttonscripts\\moregamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|D:\\Unity\\MathGame\\assets\\mathgame\\scripts\\buttonscripts\\moregamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|solutionrelative:assets\\mathgame\\scripts\\buttonscripts\\moregamesbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,12 +23,8 @@
       "RelativeMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|solutionrelative:assets\\mathgame\\scripts\\buttonscripts\\playbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|d:\\unity\\mathgame\\assets\\mathgame\\scripts\\buttonscripts\\continuebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|D:\\Unity\\MathGame\\assets\\mathgame\\scripts\\buttonscripts\\continuebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|solutionrelative:assets\\mathgame\\scripts\\buttonscripts\\continuebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|D:\\Unity\\MathGame\\assets\\mathgame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580731C0-E08B-11CA-2F40-2B15A3F2B735}|Assembly-CSharp.csproj|solutionrelative:assets\\mathgame\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MenuLogic.cs",
               "DocumentMoniker": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\MenuLogic.cs",
               "RelativeDocumentMoniker": "Assets\\MathGame\\Scripts\\MenuLogic.cs",
               "ToolTip": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\MenuLogic.cs",
               "RelativeToolTip": "Assets\\MathGame\\Scripts\\MenuLogic.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T09:43:05.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MoreGamesButton.cs",
               "DocumentMoniker": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\ButtonScripts\\MoreGamesButton.cs",
               "RelativeDocumentMoniker": "Assets\\MathGame\\Scripts\\ButtonScripts\\MoreGamesButton.cs",
@@ -59,12 +59,11 @@
               "RelativeToolTip": "Assets\\MathGame\\Scripts\\ButtonScripts\\MoreGamesButton.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T09:39:19.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T09:39:19.492Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ContinueButton.cs",
               "DocumentMoniker": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\ButtonScripts\\ContinueButton.cs",
               "RelativeDocumentMoniker": "Assets\\MathGame\\Scripts\\ButtonScripts\\ContinueButton.cs",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "Assets\\MathGame\\Scripts\\ButtonScripts\\ContinueButton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T09:06:08.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T09:06:08.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenuManager.cs",
               "DocumentMoniker": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\MenuManager.cs",
               "RelativeDocumentMoniker": "Assets\\MathGame\\Scripts\\MenuManager.cs",
@@ -85,12 +83,11 @@
               "RelativeToolTip": "Assets\\MathGame\\Scripts\\MenuManager.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:59:43.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T08:59:43.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayButton.cs",
               "DocumentMoniker": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\ButtonScripts\\PlayButton.cs",
               "RelativeDocumentMoniker": "Assets\\MathGame\\Scripts\\ButtonScripts\\PlayButton.cs",
@@ -98,20 +95,20 @@
               "RelativeToolTip": "Assets\\MathGame\\Scripts\\ButtonScripts\\PlayButton.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvxMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:54:57.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T08:54:57.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\MathGame\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\Unity\\MathGame\\Assets\\MathGame\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\MathGame\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAMwFoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwI0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T08:32:34.048Z"
+              "WhenOpened": "2024-12-20T08:32:34.048Z",
+              "EditorCaption": ""
             }
           ]
         }
